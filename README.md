@@ -2,6 +2,7 @@
 
 ## What's in this repo?
 Dataset is divided into 2 sets "train.csv" and "test.csv". With a ratio of 9/1
+
 ```train.csv``` is the training set. In this training set, the data will be further separated into 80% Training and 20% Validation
 
 ```test.csv``` is the test set. It is used to check the model data after training is complete
