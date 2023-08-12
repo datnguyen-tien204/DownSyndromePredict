@@ -12,7 +12,7 @@ Dataset is divided into 2 sets "train.csv" and "test.csv". With a ratio of 9/1
 
 ## Installation
 
-The code requires `python>=3.7`, `Scikit Learn>=1.0` ,`joblib>=1.1` and `XGBoost`. Please follow the instructions [here](https://scikit-learn.org/stable/index.html) to install both PyTorch and TorchVision dependencies.
+The code requires `python>=3.7`, `Scikit Learn>=1.0` ,`joblib>=1.1` and `XGBoost`. Please follow the instructions [here](https://scikit-learn.org/stable/index.html) to install.
 
 ## Dataset Introduce
 - age_me_new: The mother's age at pregnancy, is important information regarding the age of the fetus and the risk of having a baby with Down syndrome.
