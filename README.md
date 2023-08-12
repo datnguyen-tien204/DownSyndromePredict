@@ -32,7 +32,7 @@ The code requires `python>=3.7`, `Scikit Learn>=1.0` ,`joblib>=1.1` and `XGBoost
 
   ### Logistic Regression: 93.08%
   <p float="left">
-  <img src="assets/masks1.png?raw=true" width="37.25%" />
+  <img src="assets/LogLossRegression.png?raw=true" width="100%" />
 </p>
   ### 
   
