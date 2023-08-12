@@ -31,8 +31,44 @@ The code requires `python>=3.7`, `Scikit Learn>=1.0` ,`joblib>=1.1` and `XGBoost
   ## Result
 
   ### Logistic Regression: 93.08%
+  Evaluate Model Logistic Regression
+
+  Log-Loss Curve for Logistic Regression
   <p float="left">
-  <img src="assets/LogLossRegression.png?raw=true" width="100%" />
+  <img src="asset/LogLossRegression.png?raw=true" width="100%" />
 </p>
-  ### 
+
+  ### K-Nearest Neighbors (KNN) : 95.39%
+  Evaluate Model KNN
+
+  K- Values for KNN
+  <p float="left">
+  <img src="asset/KValues.png?raw=true" width="100%" />
+</p>
+
+  ### Decision Tree: 93.95%
+
+  Evaluate Model Decision Tree
+
+  Precision, Recall, F1-Score
+  <p float="left">
+  <img src="asset/Precision,Recall,F1-score of Decision Tree.png?raw=true" width="100%" />
+</p>
+
+  ### Naive Bayes : 90.78%
+
+ # Evaluate all Models
+
+ ### Confusion Matrix
+
+  <p float="left">
+  <img src="asset/confusionMatrix.png?raw=true" width="100%" />
+</p>
+
+  ### ROC Curves
+
+  <p float="left">
+  <img src="asset/ROC_Curves.png?raw=true" width="100%" />
+</p>
+  
   
