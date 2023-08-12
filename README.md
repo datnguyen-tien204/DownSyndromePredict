@@ -1,2 +1,1 @@
-# DownSyndromePredict
-This project Predict Syndrome with KNN, Logistic Regression,...
+# DownPredict
